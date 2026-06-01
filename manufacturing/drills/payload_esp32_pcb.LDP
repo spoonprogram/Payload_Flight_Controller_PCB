@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: C:\Users\nates\Documents\payload_flight_controller_pcb\payload_flight_controller\payload_esp32_pcb.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=payload_esp32_pcb-roundholes-plated.txt|DrillLayers=gtl,gp1,g1,gbl
+LayersSetName=Top_Bot_Plated_Slot_Holes|DrillFile=payload_esp32_pcb-slotholes-plated.txt|DrillLayers=gtl,gp1,g1,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=payload_esp32_pcb-roundholes-nonplated.txt|DrillLayers=gtl,gp1,g1,gbl
